@@ -1,0 +1,1 @@
+export const metadata={title:"Jarvis — verifica pipeline",robots:{index:false,follow:false}}; export default function Layout({children}){return <html lang="it"><body style={{margin:0,background:"#202020",color:"#fafafa",fontFamily:"system-ui"}}>{children}</body></html>}

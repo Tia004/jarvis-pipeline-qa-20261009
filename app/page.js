@@ -1,0 +1,1 @@
+export default function Page(){return <main style={{maxWidth:760,margin:"12vh auto",padding:32}}><p>TEST PERSONALE NON COMMERCIALE</p><h1>Jarvis: pipeline online</h1><p>Prova tecnica di compilazione Next.js, repository GitHub e distribuzione Vercel.</p><p>Nessuna proposta commerciale, nessuna raccolta dati.</p><code id="proof">jarvis-pipeline-qa-20261009-v1</code></main>}
